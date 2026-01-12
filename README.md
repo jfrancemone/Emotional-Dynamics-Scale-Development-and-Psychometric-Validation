@@ -2,7 +2,7 @@
 
 [![Publication](https://img.shields.io/badge/Publication-Media_Psychology_(2023)-blue)](https://doi.org/10.1080/15213269.2023.2215447)
 [![Method](https://img.shields.io/badge/Method-Psychometrics_%7C_Survey_Validation_(N%3D2.6k)-green)](https://github.com/jfrancemone/User-Engagement-Metric-Development-and-Psychometric-Validation)
-[![Tools](https://img.shields.io/badge/Tools-SPSS_(AMOS)_%7C_R-orange)](https://github.com/jfrancemone/User-Engagement-Metric-Development-and-Psychometric-Validation)
+[![Tools](https://img.shields.io/badge/Tools-SPSS_%7C_AMOS-orange)](https://github.com/jfrancemone/User-Engagement-Metric-Development-and-Psychometric-Validation)
 
 ### **Project Overview**
 
@@ -13,7 +13,7 @@ Standard sentiment analysis is static (e.g., "Positive" or "Negative"). However,
 > **📄 Publication:**
 > Fitzgerald, K., **Francemone, C. J.**, Green, M. C., Grizzard, M., & Frazer, R. (2023). The Emotional Flow Scale: Validating a measure of dynamic emotional experiences in message reception. *Media Psychology, 26*(6), 668–689.
 >
-> [**Read the Full Paper (PDF)**](Francemone_Scale_Development_2024.pdf)
+> [**Read the Full Paper (PDF)**](Francemone_Scale_Development_2023.pdf)
 
 ---
 
