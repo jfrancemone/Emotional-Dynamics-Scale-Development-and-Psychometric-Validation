@@ -19,14 +19,14 @@ Standard sentiment analysis is static (e.g., "Positive" or "Negative"). However,
 
 ### **Key Findings & Strategic Insights**
 
-#### **1. The Process Predicts Retention Better Than the "Vibe"**
+#### **1. The Process Predicts Retention**
 * **The Finding:** Static enjoyment (how "fun" content was) is a weaker predictor of meaningful engagement than Emotional Flow (how much the content *moved* the user).
 * **Strategic Insight:** **Metric Development.** For platforms seeking long-term user retention (e.g., Streaming, EdTech), optimizing for emotional diversity (ups and downs) yields greater positive evaluation than optimizing for pure positivity.
 
 #### **2. Cross-Platform Scalability (Invariance Testing)**
-Rigorously tested the metric to ensure it works across different content formats.
-* **The Finding:** The metric demonstrated **Measurement Invariance** across text-based vs. audio-visual video content.
-* **Business Impact:** **Universal KPI.** This metric is robust enough to be deployed as a standardized engagement score across diverse product lines (e.g., News Feed vs. Video Player) without needing recalibration.
+Rigorously tested the metric to ensure it works across different content formats and user populations.
+* **The Finding:** The metric demonstrated **Measurement Invariance** across text-based vs. audio-visual video content, different age groups, and genders.
+* **Business Impact:** **Universal KPI.** This metric is robust enough to be deployed as a standardized engagement score across diverse product lines (e.g., News Feed vs. Video Player) and populations (e.g., Gen-X vs. Gen-Z) without needing recalibration.
 
 #### **3. Validated Sensitivity to Content Changes**
 * **The Validation:** In a controlled A/B test (Study 3), content was manipulated to have 0, 1, or 2 emotional shifts.
@@ -70,7 +70,7 @@ The final 6-item scale (Cronbach's α = .92) optimized for engagement tracking:
 │   ├── EFS_data.csv                              <-- Complete dataset (converted to csv)
 │   └── EFS_data.sav                              <-- Original dataset (SPSS format)
 │
-├── /baseline_model_invariance_tests              <-- FINAL MODEL (6-Item Model)
+├── /baseline_model_invariance_tests              <-- Final Model (6-Item Model)
 │   ├── baseline_model.amw                        <-- Path diagram & model specification (AMOS)
 │   ├── baseline_model.AmosOutput                 <-- Statistical output (Chi-Square, CFI, RMSEA)
 │   ├── /age                                      <-- Invariance testing: Younger vs. Older
@@ -80,9 +80,11 @@ The final 6-item scale (Cronbach's α = .92) optimized for engagement tracking:
 │
 ├── /model_comparison_invariance_tests            <-- Robestness Checks (9-Item Model)
 │   ├── 9_item_comparison_model.amw               <-- Alternative specification for fit comparison
+│   ├── 9_item_comparison_model.AmosOutput        <-- Output for comparison
 │   └── (Subfolders contain full invariance suite for the 9-item structure)
 │
-└── Francemone_Scale_Development_2023.pdf         <-- Full Technical Report / Publication
+└── Francemone_Scale_Development_2023.pdf         <-- Full publication
+└── factor_structure_viz.png                      <-- Model visualization
 ```
 
 ---
