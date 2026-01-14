@@ -58,7 +58,7 @@ The final 6-item scale (Cronbach's α = .92) optimized for engagement tracking:
     * **AMOS:** Used for confirmatory factor analyses, structural equation modeling, and multi-group invariance testing.
 
 ### **Model Visualization**
-The final 6-item measurement model demonstrating a single latent construct for "Emotional Flow."
+The final 6-item measurement model demonstrating a single latent construct for Emotional Flow.
 
 ![CFA Path Diagram](factor_structure_viz.png)
 
