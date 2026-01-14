@@ -44,7 +44,9 @@ The final 6-item scale (Cronbach's α = .92) optimized for engagement tracking:
 5. "I felt negative emotions at times, while at other times I felt positive emotions."
 6. "My feelings changed a lot from the beginning to the end."
 
-![CFA Path Diagram](factor_structure_viz.png)
+<p align="center">
+  <img src="factor_structure_viz.png" alt="CFA Path Diagram" width="85%">
+</p>
 
 ---
 
