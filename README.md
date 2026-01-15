@@ -83,7 +83,7 @@ The final 6-item scale (Cronbach's α = .92) optimized for engagement tracking:
 │   ├── 9_item_comparison_model.AmosOutput        <-- Output for comparison
 │   └── (Subfolders contain full invariance suite for the 9-item structure)
 │
-└── Francemone_Scale_Development_2023.pdf         <-- Full publication
+├── Francemone_Scale_Development_2023.pdf         <-- Full publication
 └── factor_structure_viz.png                      <-- Model visualization
 ```
 
